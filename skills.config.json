@@ -60,6 +60,24 @@
       "source": "googleworkspace/cli",
       "enabled": true,
       "description": "Gmail 邮件管理，支持发送、查询、过滤和监听新邮件"
+    },
+    {
+      "name": "nsfc-abstract",
+      "source": "huangwb8/chineseresearchlatex",
+      "enabled": false,
+      "description": "基金申请书摘要优化与生成"
+    },
+    {
+      "name": "chinese-style-guide",
+      "source": "paperclipai/paperclip",
+      "enabled": false,
+      "description": "中文写作风格检查与学术表达优化"
+    },
+    {
+      "name": "abstract-strategy",
+      "source": "paperclipai/paperclip",
+      "enabled": false,
+      "description": "论文摘要写作策略与逻辑优化"
     }
   ]
 }
